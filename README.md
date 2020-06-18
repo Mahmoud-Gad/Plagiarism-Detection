@@ -8,13 +8,13 @@ This project explores Machine Learning solutions to the problem of plagiarism. b
 &nbsp;
 
 ___There are 7 files associated with the project:___
-1. Plagiarism_Feature_Engineering.ipynb
-2. Training_a_Model.ipynb
-3. helpers.py
-4. problem_unittests.py
-5. model.py
-6. train.py
-7. predict.py
+1. Plagiarism_Feature_Engineering.ipynb: code for handling the data.
+2. Training_a_Model.ipynb code for training the model and deploying it to the cloud.
+3. helpers.py: contains functions that help with organizing the data from row files to a dataframe.
+4. problem_unittests.py: contains test functions for several parts of the project.
+5. model.py: contains the class for the pytorch model.
+6. train.py: code for training the pytorch model.
+7. predict.py: code for using the trained model to make predictions.
 
 files numbered 5, 6 and 7 are found in source_pytorch directory.
 
