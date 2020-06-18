@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project explores Machine Learning solutions to the problem of plagiarism. by performing binary classification, we are able ot determine weither a file is plagiarised or not. Furthermore, it showcases how a machine learning model can be deployed to amazon sagemaker cloud service allowing the model to be accessible through web or mobile applications using REST API.
+This project explores Machine Learning solutions to the problem of plagiarism. by performing binary classification, we are able to determine weither a file is plagiarised or not. Furthermore, it showcases how a machine learning model can be deployed to amazon sagemaker cloud service allowing the model to be accessible through web or mobile applications using REST API.
 
 &nbsp;
 
