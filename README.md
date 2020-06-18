@@ -7,7 +7,7 @@ This project explores Machine Learning solutions to the problem of plagiarism. b
 
 &nbsp;
 
-There are 7 files associated with the project:
+___There are 7 files associated with the project:___
 1. Plagiarism_Feature_Engineering.ipynb
 2. Training_a_Model.ipynb
 3. helpers.py
