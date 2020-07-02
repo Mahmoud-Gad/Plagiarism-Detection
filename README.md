@@ -17,6 +17,7 @@ ___There are 7 files associated with the project:___
 7. predict.py: code for using the trained model to make predictions.
 
 files numbered 5, 6 and 7 are found in source_pytorch directory.
+"Plagiarism_Feature_Engineering" notebook should be run first to prepare the data before running "Training_a_Model" notebook
 
 &nbsp;
 
